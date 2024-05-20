@@ -4,6 +4,7 @@
 
 ![Typing_SVG](https://readme-typing-svg.herokuapp.com/?color=209512&size=20&center=true&vCenter=true&width=1000&lines=Bem+vindo+ao+meu+perfil+do+GitHub!+:%29)
 
+## Sobre mim
 Sou formada em Tecnologia Análise e Desenvolvimento de Sistema e fiz até agora duas pós graduações. Entretando, não tenho experiência profissional, por isso, quem puder mim ajudar agradeço! 
 Tenho interesse em Web Design e estou buscando ser um Front-End Developer, no momento estou aprendendo mais sobre javascript.
 

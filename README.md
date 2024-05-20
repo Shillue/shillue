@@ -1,14 +1,14 @@
 <div align="center">
-<h1>Shilluê</h1>
+<h1> Shilluê</h1>
 </div>
 
 ![Typing_SVG](https://readme-typing-svg.herokuapp.com/?color=209512&size=20&center=true&vCenter=true&width=1000&lines=Bem+vindo+ao+meu+perfil+do+GitHub!+:%29)
 
-## Sobre mim
+## 👩‍💻 Sobre mim
 Sou formada em Tecnologia Análise e Desenvolvimento de Sistema e fiz até agora duas pós graduações. Entretando, não tenho experiência profissional, por isso, quem puder mim ajudar agradeço! 
 Tenho interesse em Web Design e estou buscando ser um Front-End Developer, no momento estou aprendendo mais sobre javascript.
 
-##  Conecte-se comigo
+##  🚀 Conecte-se comigo
 [![Perfil_DIO](https://img.shields.io/badge/Perfil%20DIO-8000c7?style=for-the-badge)](https://www.dio.me/users/shillue09)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0067e3?style=for-the-badge&logo=microsoft-outlook&logoColor=%ffff
 )](www.linkedin.com/in/shilluê)
@@ -23,7 +23,7 @@ Tenho interesse em Web Design e estou buscando ser um Front-End Developer, no mo
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 
-## Stats do GitHub
+## 🎯 Stats do GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shillue&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&border_radius=10)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Shillue&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF&border_radius=10)

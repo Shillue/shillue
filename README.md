@@ -1,9 +1,9 @@
 <div style="display: flex;">
-<img src="https://avatars.githubusercontent.com/u/86475008?v=4"  style="height:50px; margin-right:10px; border-radius: 50%;"/>
+<img src="https://avatars.githubusercontent.com/u/86475008?v=4"  style="height:50px; margin-right:10px;"/>
 <h1>Shilluê</h1>
 </div>
 
-![Typing_SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=15&center=true&vCenter=true&width=1000&lines=Bem+vindo+ao+meu+perfil+do+GitHub!+:%29)
+![Typing_SVG](https://readme-typing-svg.herokuapp.com/?color=209512&size=20&center=true&vCenter=true&width=1000&lines=Bem+vindo+ao+meu+perfil+do+GitHub!+:%29)
 
 Sou formada em Tecnologia Análise e Desenvolvimento de Sistema, pela faculdade Anhanguera Educacional, e fiz até agora duas pós graduações, sendo Engenharia de Software e  Algoritmos e Estruturas de Dados pela FOCUS. Entretando, não tenho experiência profissional, por isso, quem puder mim ajudar agradeço! 
 

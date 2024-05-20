@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Sou Shilluê</h1>
+<h1>Eu sou Shilluê</h1>
 </div>
 
 ![Typing_SVG](https://readme-typing-svg.herokuapp.com/?color=209512&size=20&center=true&vCenter=true&width=1000&lines=Bem+vindo+ao+meu+perfil+do+GitHub!+:%29)

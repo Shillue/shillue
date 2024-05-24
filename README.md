@@ -9,9 +9,8 @@ Sou formada em Tecnologia Análise e Desenvolvimento de Sistema e fiz até agora
 Tenho interesse em Web Design e estou buscando ser um Front-End Developer, no momento estou aprendendo mais sobre javascript.
 
 ##  🚀 Conecte-se comigo
-[![Perfil_DIO](https://img.shields.io/badge/Perfil%20DIO-8000c7?style=for-the-badge)](https://www.dio.me/users/shillue09)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0067e3?style=for-the-badge&logo=microsoft-outlook&logoColor=%ffff
-)](www.linkedin.com/in/shilluê)
+)](https://www.linkedin.com/in/shillu%C3%AA/)
 [![E-mail]( https://img.shields.io/badge/GMAIL-b51c00?style=for-the-badge&logo=linkedin&logoColor=%ffff
 )](mailto:shillue09@gmail.com)
 

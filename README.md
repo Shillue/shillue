@@ -6,7 +6,7 @@
 
 ## 👩‍💻 Sobre mim
 Sou formada em Tecnologia Análise e Desenvolvimento de Sistema e fiz até agora duas pós graduações. Entretando, não tenho experiência profissional, por isso, quem puder mim ajudar agradeço! 
-Tenho interesse em Web Design e estou buscando ser um Front-End Developer, no momento estou aprendendo mais sobre javascript.
+Tenho interesse em Web Design e estou buscando ser um Front-End Developer, no momento estou aprendendo mais sobre javascript e React.
 
 ##  🚀 Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0067e3?style=for-the-badge&logo=microsoft-outlook&logoColor=%ffff

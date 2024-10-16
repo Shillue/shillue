@@ -21,6 +21,7 @@ Tenho interesse em Web Design e estou buscando ser um Front-End Developer, no mo
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-000?style=for-the-badge&logo=javascript&logoColor=23DF01D7)
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=8A2BE2)
 
 ## 🎯 Stats do GitHub
 

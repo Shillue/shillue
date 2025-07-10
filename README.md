@@ -26,5 +26,5 @@ Tenho interesse em Web Design e estou buscando ser um Front-End Developer, no mo
 ## 🎯 Stats do GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shillue&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&border_radius=10)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Shillue&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF&border_radius=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shillue&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF&border_radius=10)
 
